@@ -8,11 +8,6 @@
 - Checkout my portfolio [https://hksuryan.vercel.app/](https://hksuryan.vercel.app/)
   
 
-<h2 align="center">Leetcode Info<h2>
-
-
-
-<br/>
   <h2 align="center">⚡ Current Stats ⚡</h2>
 <br>
 <div align=center>
