@@ -56,8 +56,10 @@ Git • GitHub • Docker • Postman • Kafka • AWS
 </p>
 
 ---
+<h2 align="center">📅 GitHub Contributions</h2>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HKSuryan&theme=tokyonight&hide_border=true"/>
+  <img src="https://ghchart.rshah.org/409ba5/HKSuryan" alt="GitHub Contribution Chart" />
 </p>
 
 
