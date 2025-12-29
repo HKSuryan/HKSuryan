@@ -47,16 +47,10 @@ Git • GitHub • Docker • Postman • Kafka • AWS
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-  <img width="390" src="https://streak-stats.demolab.com/?user=HKSuryan&theme=react&border_radius=10" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=HKSuryan&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HKSuryan&layout=compact&theme=react&border_radius=10&langs_count=8" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HKSuryan&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HKSuryan&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
 ---
 
