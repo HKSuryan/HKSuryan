@@ -6,10 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hksuryan&theme=onedark&row=1&column=6" alt="trophies" />
-  </a>
+  <img src="https://github.com/HKSuryan/HKSuryan/blob/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 ---
 
@@ -53,6 +52,10 @@ Git • GitHub • Docker • Postman • Kafka • AWS
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HKSuryan&theme=tokyonight&hide_border=true"/>
+</p>
+
 
 ### 🤝 Connect With Me
 
