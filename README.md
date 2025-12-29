@@ -8,8 +8,9 @@
 <h2 align="center">📈 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HKSuryan&theme=tokyonight&hide_border=true&show_icons=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HKSuryan&theme=tokyo-night&hide_border=true"/>
 </p>
+
 
 
 
