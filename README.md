@@ -5,9 +5,12 @@
   <img src="https://komarev.com/ghpvc/?username=hksuryan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+<h2 align="center">📈 GitHub Activity</h2>
+
 <p align="center">
-  <img src="https://github.com/HKSuryan/HKSuryan/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HKSuryan&theme=tokyonight&hide_border=true&show_icons=true"/>
 </p>
+
 
 
 ---
